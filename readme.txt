@@ -1,2 +1,2 @@
 Added a readme 
-changed readme from container 
+This is a github.io website used to manage my personal projects
